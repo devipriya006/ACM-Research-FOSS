@@ -1,5 +1,5 @@
 
-These Bash script organizes downloaded files from VTOP into categorized folders using two methods:
+These Bash scripts organizes downloaded files from VTOP into categorized folders using two methods:
 
 By File Type -> Groups files into Documents, Presentations, PDFs, and Miscellaneous.
 
